@@ -19,6 +19,7 @@
   "homepage": "https://github.com/roseannenguyen/13-Node-Express-Handlebars#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
     "mysql": "^2.18.1"
   }
 }
